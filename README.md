@@ -9,7 +9,7 @@ This repository is a record of my commitment to improving my coding skills, part
 
 ## Progress
 
-### Day 1-5:
+### Day 1-7:
 
 ### 🌟 Accomplishment: <br>
 Mastered the fundamentals of Arrays! From understanding the basics to solving intricate problems, it's been a day full of revelations.
