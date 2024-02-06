@@ -9,7 +9,7 @@ This repository is a record of my commitment to improving my coding skills, part
 
 ## Progress
 
-### Day 1-7:
+### Day 1-20:
 
 ### 🌟 Accomplishment: <br>
 Mastered the fundamentals of Arrays! From understanding the basics to solving intricate problems, it's been a day full of revelations.
@@ -32,6 +32,7 @@ Note: This README will be regularly updated to reflect my progress throughout th
 /Day3: Contains code and notes for Day 3 of the challenge. <br>
 /Day4: Contains code and notes for Day 4 of the challenge. <br>
 /Day5: Contains code and notes for Day 5 of the challenge. <br>
+/AND SO ON>>>...
 
 Add folders for subsequent days as you progress through the challenge.
 
